@@ -68,7 +68,7 @@ Você pode editar os seguintes arquivos para adaptar a landing page ao seu servi
 
 ## 📞 Contato
 
-📧 Email: (mailto:edsojunior59@gmail.com)  
+📧 Email: (edsojunior59@gmail.com)  
 📱 WhatsApp: [Clique para conversar](https://wa.me/+5566999059952)
 
 ---
