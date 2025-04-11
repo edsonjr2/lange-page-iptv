@@ -36,9 +36,9 @@ A **TurboX IPTV** é uma landing page 100% responsiva e otimizada para divulgar 
 
 ---
 
-## 📷 Preview
+## 📷 Pagina criada
 
-![Preview](https://via.placeholder.com/800x400?text=Preview+da+Landing+Page)
+https://tvturbox.com/
 
 ---
 
@@ -46,7 +46,7 @@ A **TurboX IPTV** é uma landing page 100% responsiva e otimizada para divulgar 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/turbox-iptv.git
+   git clone https://github.com/edsonjr2/turbox-iptv.git
    ```
 
 2. Extraia o conteúdo e abra o arquivo `index.html` no navegador.
@@ -68,8 +68,8 @@ Você pode editar os seguintes arquivos para adaptar a landing page ao seu servi
 
 ## 📞 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-📱 WhatsApp: [Clique para conversar](https://wa.me/seunumero)
+📧 Email: [seuemail@email.com](mailto:edsojunior59@gmail.com)  
+📱 WhatsApp: [Clique para conversar](https://wa.me/+5566999059952)
 
 ---
 
